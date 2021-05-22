@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-manages library related details in a DB server.
+It's a JAVA application ,maintains Library details in MySQL server
